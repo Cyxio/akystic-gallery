@@ -50,11 +50,11 @@ export default function Home() {
       <p className='mb-4 text-xl'>
         Akystic 10v vuosijuhlat 28.10.2023, Betonimiehenkuja 3
       </p>
-      <p className='mb-4'>
+      <p className='mb-2'>
         Mikäli haluat jonkun kuvan poistettavan tältä sivulta, lähetä kuvan numero osoitteeseen <a href='mailto:akystic@ky.fi' className='underline'>akystic@ky.fi</a>
       </p>
       <p className='mb-8'>
-        Kuvaaja: Filip Eller. Kaupalliset julkaisut kielletty. Kuvaajan nimi mainittava julkaistaessa.
+        Kuvaaja: Filip Eller. Kuvaajan nimi mainittava julkaistaessa. Kaupalliset julkaisut kielletty.
       </p>
       <div className='flex mx-auto justify-center gap-4 sm:gap-10 mb-8'>
         <button
