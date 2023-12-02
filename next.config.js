@@ -1,7 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: "standalone",
+    output: "export",
     images: {
+        loader: "custom",
+        loaderFile: './ImageLoader.js',
         remotePatterns: [
             {
                 protocol: 'https',

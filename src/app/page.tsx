@@ -54,7 +54,7 @@ export default function Home() {
         Mikäli haluat jonkun kuvan poistettavan tältä sivulta, lähetä kuvan numero osoitteeseen <a href='mailto:akystic@ky.fi' className='underline'>akystic@ky.fi</a>
       </p>
       <p className='mb-8'>
-        Kuvaaja: Filip Eller. Kuvaajan nimi mainittava julkaistaessa.
+        Kuvaaja: Filip Eller. Kaupalliset julkaisut kielletty. Kuvaajan nimi mainittava julkaistaessa.
       </p>
       <div className='flex mx-auto justify-center gap-4 sm:gap-10 mb-8'>
         <button
